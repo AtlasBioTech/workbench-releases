@@ -32,8 +32,26 @@ signés : macOS et Windows demandent une confirmation au premier lancement.
 Each archive is checked against `SHA256SUMS`. Binaries are not signed yet:
 macOS and Windows ask for confirmation on first launch.
 
+## Licence
+
+[PolyForm Strict 1.0.0](LICENSE).
+
+Usage gratuit à des fins non commerciales, y compris pour les organismes de
+recherche, de santé et d'enseignement publics, quel que soit leur
+financement. Pas de redistribution, de modification ni d'œuvre dérivée, ce
+qui inclut les skills de l'agent. L'usage commercial nécessite une licence
+d'AtlasBioTech.
+
+Free for noncommercial use, including by public research, health and
+educational organisations whatever their funding. No redistribution,
+modification or derived works, the agent's skills included. Commercial use
+needs a licence from AtlasBioTech.
+
+Each archive carries `LICENSE` and `THIRD_PARTY_NOTICES.txt` (the open
+source components inside and their licences).
+
 ## Contact
 
 AtlasBioTech — https://demoatlas.online
 
-© AtlasBioTech. All rights reserved.
+© 2026 AtlasBioTech.
